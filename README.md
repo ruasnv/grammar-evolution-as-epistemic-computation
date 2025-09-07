@@ -1,1 +1,1 @@
-# -grammar-evolution-as-epistemic-computation
+# grammar-evolution-as-epistemic-computation
